@@ -42,7 +42,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/BoruIsakoJ/my-personal-website.git
+   git clone git@github.com:BoruIsakoJ/my-personal-website.git
    ```
 2. Navigate to the project folder:
    ```sh
@@ -55,7 +55,6 @@ To set up the project locally, follow these steps:
 - Click on "View My Work" to explore my projects.
 - Click on "Download Resume" to download my resume (feature under development).
 - Scroll through different sections to learn more about me and my skills.
-- Use the dark mode toggle (once implemented) for better readability.
 
 ## Live Demo
 
