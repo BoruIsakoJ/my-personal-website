@@ -58,7 +58,7 @@ To set up the project locally, follow these steps:
 
 ## Live Demo
 
-Check out the live website: [Personal Website](https://superlative-pasca-598d8b.netlify.app/)
+Check out the live website: [Personal Website](https://boru-isako-portfolio.netlify.app/)
 
 ## Projects
 
