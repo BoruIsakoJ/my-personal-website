@@ -83,7 +83,7 @@ Feel free to connect with me:
 
 - **GitHub**: [BoruIsakoJ](https://github.com/BoruIsakoJ)
 - **Twitter**: [@_b0ru](https://x.com/_b0ru)
-- **Email**: [boruisako@example.com](mailto:boruisako@example.com)
+- **Email**: [boruisako@example.com](mailto:isco.jaldy@gmail.com)
 
 ---
 
