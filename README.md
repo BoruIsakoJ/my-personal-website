@@ -32,7 +32,6 @@ This website serves as my digital portfolio, providing insights into my work, sk
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap (for styling)
 - Google Fonts
 - Netlify (for deployment)
 
@@ -83,7 +82,7 @@ Feel free to connect with me:
 
 - **GitHub**: [BoruIsakoJ](https://github.com/BoruIsakoJ)
 - **Twitter**: [@_b0ru](https://x.com/_b0ru)
-- **Email**: [boruisako@example.com](mailto:isco.jaldy@gmail.com)
+- **Email**: [isco.jaldy@gmail.com](mailto:isco.jaldy@gmail.com)
 
 ---
 
